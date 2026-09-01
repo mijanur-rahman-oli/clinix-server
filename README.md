@@ -1,6 +1,4 @@
-# PH Healthcare System — Backend
-
-REST API for a doctor-appointment platform: patients book consultations, doctors run them, admins manage the platform. This repo is the backend only.
+Clinix Healthcare System REST API for a doctor-appointment platform: patients book consultations, doctors run them, admins manage the platform. This repo is the backend only.
 
 **Stack:** Node.js · Express 5 · TypeScript · Prisma 7 · PostgreSQL · JWT auth
 
